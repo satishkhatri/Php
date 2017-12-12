@@ -1,0 +1,32 @@
+{
+  "forecast": [
+    {
+      "monday": {
+        "description": "sunny",
+        "maxTemp": "20",
+        "minTemp": "7",
+        "windSpeed": "12",
+        "danger": "false"
+      }
+    },
+    {
+      "Tuesday": {
+        "description": "cloudy",
+        "maxTemp": "30",
+        "minTemp": "17",
+        "windSpeed": "2",
+        "danger": "true"
+      }
+    },
+    {
+      "Wendesday": {
+        "description": "Raining",
+        "maxTemp": "50",
+        "minTemp": "7",
+        "windSpeed": "12",
+        "danger": "true"
+      }
+    }
+
+  ]
+}

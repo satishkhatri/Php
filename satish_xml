@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<dailyForcast>
+    <date>20-11-2010</date>
+    <description>sunny</description>
+    <minTemp unit="c">12</minTemp>
+    <maxtemp unit="c">14</maxtemp>
+    <windSpeed unit="kmp">16</windSpeed>
+</dailyForcast>
